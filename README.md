@@ -1,16 +1,20 @@
-### Hi there 👋
+# ¡Hola mundo!
 
-<!--
-**ElGg01/ElGg01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es **Julio** y soy un Programador, sientete libre de contactarme para cualquier proyecto que desees.
 
-Here are some ideas to get you started:
+![](http://drive.google.com/uc?export=view&id=1_aPYBS3_whik2zXPKkgdb2LtMKJEYpA9)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- <img src="http://drive.google.com/uc?export=view&id=1C8WRuKxlcIPIhieelN_Ws1dXp4PFghcT" width="200px" style="border-radius: 20px;"> -->
+
+Mis estadisticas de GitHub:
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ElGg01&show_icons=true)
+
+Mis lenguajes principales:
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ElGg01&theme=blue-green)
+
+<!-- <img src="https://komarev.com/ghpvc/?username=ElGg01" width="200px"/> -->
+
+**Contacto:** *jcng.aa135@gmail.com*
