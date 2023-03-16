@@ -17,4 +17,4 @@ Hello everyone!<br>I'm Julio, and i'm  Developer / Designer / Computer Engineer.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-**Contacto:** *jcng.aa135@gmail.com*
+**Contact:** *jcng.aa135@gmail.com*
